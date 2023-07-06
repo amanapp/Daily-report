@@ -1,0 +1,20 @@
+ALL USEFULL COMMOND FOR GIT 
+
+==========
+Note :- according to user need 
+pwd = present directory 
+cd to move in working directory 
+===========
+
+1 git clone -because it most neccesssary to accesss the github repositry to valulable changes
+2 git branch - check current branch (all changes the neccassary in main branch )
+3 git status - to check the git status 
+4 git add <file_name> (specific file case)
+     OR 
+5 git add . (it change all the file in github) pre commit phase
+6 git commit -m "comment "
+7 git push :- reflected changes in github by using git 
+8 check history by using -git log
+=======
+''''''''
+NOTE:- VERSION CONTROLLER TO CONTROL THE VERSION OF SOURCE CODE 
